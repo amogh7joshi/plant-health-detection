@@ -1,0 +1,23 @@
+venv/
+.idea/
+.DS_Store
+**/__pycache__/
+.ipynb_checkpoints/
+
+# My Personal Files and Directories
+**/*test*.py
+storage/
+test_images/
+data/hb74ynkjcn-1/
+data/dataset/plant_leaves/*
+data/model/*
+**/*.pickle
+**/*.hdf
+
+# Temporary
+architecture.py
+inception-v4.py
+examples/*
+
+
+
