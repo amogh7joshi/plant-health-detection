@@ -8,7 +8,7 @@ Rather than manual identification, neural networks can be used to identify plant
 
 This repository contains the source code for neural networks which are used to identify plant diseases. 
 
-### Installation
+## Installation
 
 To install this repository, you can directly clone it from the command line:
 
@@ -30,12 +30,12 @@ Then, you can download the plant leaf health dataset from [this location](https:
 around 6 GB of space. Move the folder containing the dataset into the `data` subdirectory. Then, run the `preprocess.sh` script in order to preprocess the data.
 It takes around 3 minutes to process each of `healthy|diseased` images, so the script splits them up if you  would like.
 
-### Model Information
+## Model Information
 
 The model that I am currently using is based roughly off of ResNet [\[1\]](http://arxiv.org/abs/1512.03385), and manages to achieve an impressive 99% accuracy on training 
 data at 100 epochs. The link at the top contains the model training script in Google Colab. 
 
-### References
+## References
 
 \[1\]: He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image recognition. ArXiv:1512.03385 [Cs]. http://arxiv.org/abs/1512.03385
 
