@@ -1,5 +1,7 @@
 # Plant Disease Identification
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amogh7joshi/plant-health-detection/blob/master/model.ipynb)
+
 Identifying the health of plants is a lengthy but necessary process in order to keep plants 
 healthy. The issue is especially intensified in regions with expansive farming land and crop growth.
 Rather than manual identification, neural networks can be used to identify plants that are healthy or diseased.
