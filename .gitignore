@@ -18,6 +18,8 @@ data/model/*
 architecture.py
 inception-v4.py
 examples/*
+convolution.py
+to-coreml.py
 
 
 
