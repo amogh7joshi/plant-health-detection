@@ -3,3 +3,5 @@ pandas
 tensorflow
 opencv-python-headless
 scikit-learn
+matplotlib
+seaborn
