@@ -2,6 +2,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amogh7joshi/plant-health-detection/blob/master/model.ipynb)
 
+**Note**: **This was one of the first projects I developed when working with deep learning, and it is no longer monitored
+or in use. You can work with it on your own, but no new changes will be made, since this project is complete.** 
+
 Identifying the health of plants is a lengthy but necessary process in order to keep plants 
 healthy. The issue is especially intensified in regions with expansive farming land and crop growth.
 Rather than manual identification, neural networks can be used to identify plants that are healthy or diseased.
